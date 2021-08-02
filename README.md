@@ -6,6 +6,7 @@ To get started, you will need:
 
 - Run "createDB.sql" (once);
 - Change the strings "user" and "pasw" (located in "Main.java"), to their respective MySQL username and password;
+
 ![alt text](https://i.pinimg.com/originals/49/d3/33/49d333c20987af5798b160b62e61e83e.jpg)
 
 Now you are able to use the code, just run "Main.java"
