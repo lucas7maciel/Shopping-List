@@ -9,8 +9,8 @@ class ConnectionFactory {
 
             return con;
         } catch (Exception e) {
-            System.out.println("Conexão não pôde ser feita\n");
-            System.out.println("Erro: " + e);
+            System.out.println("Connection error\n");
+            System.out.println(e);
             return null;
         }
     }
